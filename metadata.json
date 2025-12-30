@@ -1,0 +1,8 @@
+{
+  "name": "Concept Art Deconstructor",
+  "description": "An elite tool for generating panoramic character depth deconstruction sheets using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
